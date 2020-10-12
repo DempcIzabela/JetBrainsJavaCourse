@@ -1,6 +1,8 @@
 package com.Excercises.Polymorphism.Excercise4;
 
 
+import java.lang.reflect.Field;
+import java.lang.reflect.Modifier;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Collections;
